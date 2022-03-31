@@ -1,0 +1,52 @@
+{
+  "main_menu": [
+    {
+      "id": "1",
+      "text": "산소발생기",
+      "subMenu": [
+        {
+          "prdId": "krober",
+          "prdName": "Krober02-4.0",
+          "url": "/products/krober",
+          "imgName": "krober_R.png"
+        },
+        {
+          "prdId": "p2",
+          "prdName": "휴대용 KingOn P2",
+          "url": "/products/p2",
+          "imgName": "p2_R.png"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "text": "산소포화도 측정기",
+      "subMenu": [
+        {
+          "prdId": "c1",
+          "prdName": "MD300 C1",
+          "url": "/products/c1",
+          "imgName": "c1_R.png"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "text": "석션",
+      "subMenu": [
+        {
+          "prdId": "aspiret",
+          "prdName": "ASPIRET",
+          "url": "/products/aspiret",
+          "imgName": "aspiret_R.png"
+        },
+        {
+          "prdId": "askir30",
+          "prdName": "ASKIR30",
+          "url": "/products/askir30",
+          "imgName": "askir30_R.png"
+        }
+      ]
+    }
+  ]
+}
