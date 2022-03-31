@@ -29,9 +29,9 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .httpBasic().disable()
                 .sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
                 .and()
-                    .authorizeHttpRequests().antMatchers("/", "/auth/**", "/error","/pages")
+                    .authorizeHttpRequests().antMatchers("/auth/**", "/")
                 .permitAll()
-                .anyRequest().authenticated();
+                .anyRequest().permitAll();
 
         //filter 등록
         //매요청마다 CorsFilter 실행 후 JwtAuthenticationFilter 실행
