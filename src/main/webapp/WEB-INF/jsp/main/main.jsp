@@ -84,7 +84,7 @@ pageEncoding="utf-8" %>
     <!-- ltn__slide-item -->
     <div
       class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-3-normal--- ltn__slide-item-3 bg-image bg-overlay-theme-black-60---"
-      data-bs-bg="../../../assets/img/slider/slider_c1.png"
+      data-bs-bg="${pageContext.request.contextPath}/assets/img/slider/slider_c1.png"
     >
       <div class="ltn__slide-item-inner text-left">
         <div class="container">
