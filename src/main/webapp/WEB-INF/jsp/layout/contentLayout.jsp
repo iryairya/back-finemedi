@@ -31,12 +31,8 @@ uri="http://tiles.apache.org/tags-tiles" %>
       name="google-site-verification"
       content="ZA5PR8EGHUP__C8EKFM-cR14TzWFv_NW8ueVlqTdwZ4"
     />
-    <meta
-      name="naver-site-verification"
-      content="c9ec48c4f6a4c5705ce79751008fc8218426867a"
-    />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="파인메디|010-5568-8202" />
+    <meta property="og:title" content="파인메디 산소발생기 임대" />
     <meta property="og:image" content="url" />
     <meta
       property="og:description"
