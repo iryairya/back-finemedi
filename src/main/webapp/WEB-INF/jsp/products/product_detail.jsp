@@ -74,7 +74,7 @@ uri="http://java.sun.com/jsp/jstl/core" %>
                 <c:if test="${prdId eq 'krober' || prdId eq 'p2'}">
                   <h3>가정산소치료 임대가능</h3>
                   <h4>
-                    <a href="/products/krober_rental"
+                    <a href="/products/rental"
                       ><img
                         src="${pageContext.request.contextPath}/assets/img/banner/ico-bullet.png"
                         alt="#"

@@ -172,10 +172,13 @@ pageEncoding="utf-8"%>
           </ul>
         </li>
         <li>
-          <img
-            src="${pageContext.request.contextPath}/assets/img/banner/ico-bullet.png"
-            alt="#"
-          /><a href="/products/rental">산소발생기 임대서비스</a>
+          <a href="/products/rental"
+            ><img
+              src="${pageContext.request.contextPath}/assets/img/banner/ico-bullet.png"
+              alt="#"
+            />
+            산소발생기 임대서비스</a
+          >
         </li>
       </ul>
     </div>

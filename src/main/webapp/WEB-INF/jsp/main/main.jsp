@@ -55,8 +55,8 @@ pageEncoding="utf-8" %>
               <div class="slide-item-info">
                 <div class="slide-item-info-inner ltn__slide-animation">
                   <h6 class="slide-sub-title white-color--- animated">
-                    <span><i class="fas fa-syringe"></i></span> 100% genuine
-                    Products
+                    <span><i class="fas fa-syringe"></i></span> 국민건강보험
+                    산소치료서비스 임대가능
                   </h6>
                   <h1 class="slide-title animated">
                     휴대용 의료 산소발생기 <br />KingOn P2
@@ -93,8 +93,8 @@ pageEncoding="utf-8" %>
               <div class="slide-item-info">
                 <div class="slide-item-info-inner ltn__slide-animation">
                   <h6 class="slide-sub-title white-color--- animated">
-                    <span><i class="fas fa-syringe"></i></span> 100% genuine
-                    Products
+                    <span><i class="fas fa-syringe"></i></span> 휴대용 손가락
+                    측정기
                   </h6>
                   <h1 class="slide-title animated">
                     산소포화도 측정기 <br />MD300 C1
