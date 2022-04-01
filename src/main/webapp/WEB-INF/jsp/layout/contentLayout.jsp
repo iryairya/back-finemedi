@@ -22,18 +22,22 @@ uri="http://tiles.apache.org/tags-tiles" %>
     <meta name="title" content="파인메디|010-5568-8202" />
     <meta
       name="keywords"
-      content="산소발생기, 산소포화도, 산소포화도측정기, 석션, 네블라이저"
+      content="산소발생기, 산소발생기임대, 산소치료, 산소포화도, 산소포화도측정기, 석션"
     />
     <meta
       name="description"
-      content="산소발생기, 산소포화도, 산소포화도측정기, 석션, 네블라이저"
+      content="산소발생기, 산소발생기임대, 산소치료, 산소포화도, 산소포화도측정기, 석션"
+    />
+    <meta
+      name="google-site-verification"
+      content="ZA5PR8EGHUP__C8EKFM-cR14TzWFv_NW8ueVlqTdwZ4"
     />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="파인메디|010-5568-8202" />
     <meta property="og:image" content="url" />
     <meta
       property="og:description"
-      content="산소발생기, 산소포화도, 산소포화도측정기, 석션, 네블라이저"
+      content="산소발생기, 산소발생기임대, 산소치료, 산소포화도, 산소포화도측정기, 석션"
     />
     <!-- Place favicon.png in the root directory -->
     <link
