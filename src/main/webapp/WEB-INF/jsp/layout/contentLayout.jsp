@@ -33,7 +33,10 @@ uri="http://tiles.apache.org/tags-tiles" %>
     />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="파인메디 산소발생기 임대" />
-    <meta property="og:image" content="url" />
+    <meta
+      property="og:image"
+      content="${pageContext.request.contextPath}/assets/img/product/krober_Rel.png"
+    />
     <meta
       property="og:description"
       content="산소발생기, 산소발생기임대, 산소치료, 산소포화도, 산소포화도측정기, 석션"
