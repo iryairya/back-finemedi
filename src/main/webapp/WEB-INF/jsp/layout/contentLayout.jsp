@@ -12,14 +12,13 @@ uri="http://tiles.apache.org/tags-tiles" %>
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>(주)파인메디 | 010-5568-8202</title>
-    <meta name="robots" content="noindex, follow" />
+    <title>파인메디 | 산소발생기</title>
     <meta name="description" content="파인메디|010-5568-8202" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="title" content="파인메디|010-5568-8202" />
+    <meta name="title" content="파인메디 산소발생기 임대" />
     <meta
       name="keywords"
       content="산소발생기, 산소발생기임대, 산소치료, 산소포화도, 산소포화도측정기, 석션"
