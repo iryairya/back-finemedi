@@ -13,9 +13,9 @@ import java.util.Arrays;
 
 @Configuration
 public class WebMvcConfig implements WebMvcConfigurer {
-    private final long MAX_AGE_SECS = 3600;
+    //private final long MAX_AGE_SECS = 3600;
 
-    @Override
+    /*@Override
     public void addCorsMappings(CorsRegistry registry){
         registry.addMapping("/**")
                 .allowedOrigins("http://localhost:3003", "http://localhost:8080")
@@ -23,7 +23,7 @@ public class WebMvcConfig implements WebMvcConfigurer {
                 .allowedHeaders("*")
                 .allowCredentials(true)
                 .maxAge(MAX_AGE_SECS);
-    }
+    }*/
 
     // 모든페이지 comming-soon 페이지로 돌리는 필터
     @Bean

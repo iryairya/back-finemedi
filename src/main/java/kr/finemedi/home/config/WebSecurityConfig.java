@@ -29,7 +29,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .httpBasic().disable()
                 .sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
                 .and()
-                    .authorizeHttpRequests().antMatchers("/auth/**", "/")
+                    .authorizeHttpRequests().antMatchers("/auth/**", "/admin/**")
                 .permitAll()
                 .anyRequest().permitAll();
 
