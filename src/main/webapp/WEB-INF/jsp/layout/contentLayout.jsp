@@ -12,8 +12,8 @@ uri="http://tiles.apache.org/tags-tiles" %>
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>파인메디 | 산소발생기</title>
-    <meta name="description" content="파인메디|010-5568-8202" />
+    <title>파인메디 산소발생기</title>
+    <meta name="description" content="파인메디 산소발생기 임대" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
