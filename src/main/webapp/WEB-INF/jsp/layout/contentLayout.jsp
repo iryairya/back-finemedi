@@ -41,7 +41,9 @@ uri="http://tiles.apache.org/tags-tiles" %>
       property="og:description"
       content="산소발생기, 산소발생기임대, 산소치료, 산소포화도, 산소포화도측정기, 석션"
     />
+    <meta property="og:url" content="http://www.finemedi.kr" />
     <!-- Place favicon.png in the root directory -->
+    <link rel="canonical" href="http://www.finemedi.kr" />
     <link
       rel="shortcut icon"
       href="${pageContext.request.contextPath}/assets/img/favicon.png"
