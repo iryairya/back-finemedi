@@ -73,17 +73,5 @@
             <title>파인메디</title>
             <link>http://www.finemedi.kr/</link>
         </item>
-        <item>
-            <guid isPermaLink="false">d91d138d9a509900055ccfa10d326523</guid>
-            <pubDate>Mon, 04 Apr 2022 04:33:14 GMT</pubDate>
-            <title>파인메디 상담문의</title>
-            <link>tel:+031-772-5282</link>
-        </item>
-        <item>
-            <guid isPermaLink="false">1d24d819da35b8bbcea6abe0e9b0765a</guid>
-            <pubDate>Mon, 04 Apr 2022 04:33:13 GMT</pubDate>
-            <title>파인메디 상담문의</title>
-            <link>tel:+010-5568-8202</link>
-        </item>
     </channel>
 </rss>
