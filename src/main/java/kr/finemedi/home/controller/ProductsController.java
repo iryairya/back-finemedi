@@ -1,5 +1,6 @@
 package kr.finemedi.home.controller;
 
+import lombok.extern.slf4j.Slf4j;
 import org.hibernate.internal.util.StringHelper;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -11,11 +12,14 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.servlet.http.HttpServletRequest;
 import java.util.*;
 
+@Slf4j
 @Controller
 public class ProductsController {
     @RequestMapping("/products/{prdId}")
     public ModelAndView productDetail(@PathVariable("prdId") String prdId) {
         ModelAndView mav = new ModelAndView("/products/product_detail");
+        log.info("===== info products {}",prdId);
+        log.debug("===== debug products {}",prdId);
 
         String prdName = "";
         String divName = "";
@@ -56,7 +60,7 @@ public class ProductsController {
             kwdMapList.add("휴대용");
             kwdMapList.add("편리성");
         }else if("aspiret".equals(prdId)) {
-            prdName = "가정요 석션/흡인기 ASPIRET";
+            prdName = "가정용 석션/흡인기 ASPIRET";
             divName = "가정용 석션/흡인기";
             prdPriceSale = "280,000";
             prdPriceOrg = "330,000";

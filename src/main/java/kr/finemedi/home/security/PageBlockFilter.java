@@ -16,12 +16,10 @@ public class PageBlockFilter implements Filter {
     @Override
     public void doFilter(ServletRequest servletRequest, ServletResponse servletResponse, FilterChain filterChain) throws IOException, ServletException {
 
-        log.debug("========================> PageBlockFilter ");
         HttpServletRequest httpServletRequest = (HttpServletRequest) servletRequest;
         HttpServletResponse httpServletResponse = (HttpServletResponse) servletResponse;
         boolean isOpen = true;
 
-        log.debug("========================> isOpen {} ", isOpen);
         if(!isOpen){
             httpServletResponse.setStatus(HttpStatus.OK.value());
             httpServletResponse.sendRedirect("/comming-soon");

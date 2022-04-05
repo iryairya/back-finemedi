@@ -12,6 +12,9 @@ server:
     path: /error
 
 spring:
+  devtools:
+    livereload:
+      enabled: true
   mvc:
     view:
       prefix: /WEB-INF/jsp/
@@ -35,7 +38,10 @@ spring:
       properties:
         hibernate:
           format_sql: true
-  logging:
-    level:
-      org.hibernate.SQL: debug
+
+  #로그파일 경로
+  log:
+    config:
+      path: /logs
+      filename: serverlog
 
