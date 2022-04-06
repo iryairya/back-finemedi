@@ -70,13 +70,13 @@
     </appender>
     <!-- root레벨 설정 -->
     <root level="INFO">
-        <appender-ref ref="CONSOLE"/>
+    <!--<appender-ref ref="CONSOLE"/>-->
         <appender-ref ref="FILE"/>
         <appender-ref ref="Error"/>
     </root>
     <!-- 특정패키지 로깅레벨 설정 -->
     <logger name="kr.finemedi.home" level="DEBUG" additivity="false">
-        <appender-ref ref="CONSOLE"/>
+        <!--<appender-ref ref="CONSOLE"/>-->
         <appender-ref ref="FILE"/>
         <appender-ref ref="Error"/>
     </logger>

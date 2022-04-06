@@ -12,13 +12,13 @@ uri="http://tiles.apache.org/tags-tiles" %>
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>파인메디 산소발생기</title>
-    <meta name="description" content="파인메디 산소발생기 임대" />
+    <title>파인메디</title>
+    <meta name="description" content="산소발생기, 산소발생기임대, 산소치료, 산소포화도, 산소포화도측정기, 석션" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="title" content="파인메디 산소발생기 임대" />
+    <meta name="title" content="파인메디" />
     <meta
       name="keywords"
       content="산소발생기, 산소발생기임대, 산소치료, 산소포화도, 산소포화도측정기, 석션"
@@ -32,7 +32,7 @@ uri="http://tiles.apache.org/tags-tiles" %>
       content="ZA5PR8EGHUP__C8EKFM-cR14TzWFv_NW8ueVlqTdwZ4"
     />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="파인메디 산소발생기 임대" />
+    <meta property="og:title" content="파인메디" />
     <meta
       property="og:image"
       content="${pageContext.request.contextPath}/assets/img/product/krober_Rel.png"
