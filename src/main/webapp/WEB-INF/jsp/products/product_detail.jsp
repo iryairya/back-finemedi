@@ -312,7 +312,7 @@ uri="http://java.sun.com/jsp/jstl/core" %>
             <h1>
               <a
                 class="font-weight-6 ltn__primary-color"
-                href="tel:+031-772-5282"
+                href="tel:+82317725282"
                 ><span class="ltn__secondary-color"
                   ><i class="icon-call font-weight-7"></i
                 ></span>
