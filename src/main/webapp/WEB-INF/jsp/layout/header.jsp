@@ -105,7 +105,7 @@ pageEncoding="utf-8"%>
         </div>
         <div class="col--- ltn__header-options ltn__header-options-2 mb-sm-20">
           <div class="header-contact-info text-center">
-            <a class="font-weight-6 ltn__primary-color" href="tel:+01055688202"
+            <a class="font-weight-6 ltn__primary-color" href="tel:+821055688202"
               ><span class="ltn__secondary-color"
                 ><i class="icon-call font-weight-7"></i
               ></span>

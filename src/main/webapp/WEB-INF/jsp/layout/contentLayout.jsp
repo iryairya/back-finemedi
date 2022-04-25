@@ -12,7 +12,7 @@ uri="http://tiles.apache.org/tags-tiles" %>
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>파인메디</title>
+    <title>파인메디 - 산소발생기 임대 전문업체</title>
     <meta name="description" content="산소발생기, 산소발생기임대, 산소치료, 산소포화도, 산소포화도측정기, 석션" />
     <meta
       name="viewport"

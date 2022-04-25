@@ -55,8 +55,8 @@ pageEncoding="utf-8"%>
                   <i class="icon-call"></i>
                 </div>
                 <div class="footer-address-info">
-                  <p><a href="tel:+031-772-5282">031-772-5282</a></p>
-                  <p><a href="tel:+010-5568-8202">010-5568-8202</a></p>
+                  <p><a href="tel:+82317725282">031-772-5282</a></p>
+                  <p><a href="tel:+821055688202">010-5568-8202</a></p>
                 </div>
               </li>
               <li>
