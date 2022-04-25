@@ -175,7 +175,7 @@ pageEncoding="utf-8" %>
                   </div>
                   <div class="about-author-info-2-contact-info">
                     <small>상담문의</small>
-                    <h6 class="mb-0">010-5568-8202</h6>
+                    <h6 class="mb-0"><a href="tel:+821055688202">010-5568-8202</a></h6>
                   </div>
                 </div>
               </li>
